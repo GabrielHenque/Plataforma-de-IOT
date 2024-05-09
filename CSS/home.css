@@ -19,11 +19,15 @@ html {
     --cor-fonte-secundaria: #9F2DED;
     --cor-fonte-terciaria: #ababab;
 
+
     --peso-fonte-negrito: 700;
     --peso-fonte-leve: 500;
     --peso-fonte-normal: 600;
 
+
     --cor-background-principal: #9F2DED;
+
+
 }
 
 
@@ -99,6 +103,10 @@ header {
 
 }
 
+
+#perfil-dados{
+    color: var(--cor-fonte-secundaria);
+}
 
 
 #perfil-dados > h2 {
