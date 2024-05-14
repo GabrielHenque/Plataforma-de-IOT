@@ -479,6 +479,7 @@ footer {
 
     #perfil-dados > h1 {
         font-size: 3rem;
+        align-items: center;
         
     }
 
@@ -495,7 +496,7 @@ footer {
 
     #projetos h2 {
         word-break: normal;
-        font-size: 4rem;
+        font-size: 3rem;
         text-align: center;
         max-width: 100%;
 
@@ -525,7 +526,7 @@ footer {
 
     #cursos-grid > h2 {
         word-break: normal;
-        font-size: 4rem;
+        font-size: 3rem;
         text-align: center;
         max-width: 100%;
         
@@ -537,9 +538,8 @@ footer {
     }
 
     .cursos-texto-principal {
-        text-align: center;
         padding: 10px;
-        font-size: 1.2rem;
+        font-size: 1rem;
         color: white;
     }
 
